@@ -1,7 +1,7 @@
 function MainController() {
-    this.name = 'Bill Gates';
+    this.name = 'Steve Jobs'
 }
 
 angular
     .module('app')
-    .controller('MainController', MainController);
+    .controller('MainController', MainController)
